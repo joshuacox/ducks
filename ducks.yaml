@@ -1,0 +1,4 @@
+- name: dockersupport
+  hosts: ducks
+  tasks:
+  - script: bootstrapducks.sh
